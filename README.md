@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Data+Science+Explorer;Python+Developer;Open+Source+Contributor;Techie+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
----
-
-![Snake animation](https://github.com/prathamsinghal001/prathamsinghal001/blob/output/snake.svg)
-
 
 ---
 ## 🖥️ My Skills  
