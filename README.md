@@ -24,6 +24,10 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white&style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-0099CC?logo=plotly&logoColor=white&style=for-the-badge)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?logo=databricks&logoColor=white&style=for-the-badge)
+![Tkinter](https://img.shields.io/badge/-Tkinter-FFCC00?style=for-the-badge&logo=python&logoColor=blue)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4E8C4A?style=for-the-badge&logo=python&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🛠 Tools  
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
