@@ -23,6 +23,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white&style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-0099CC?logo=plotly&logoColor=white&style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?logo=databricks&logoColor=white&style=for-the-badge)
 ![Tkinter](https://img.shields.io/badge/-Tkinter-FFCC00?style=for-the-badge&logo=python&logoColor=blue)
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4E8C4A?style=for-the-badge&logo=python&logoColor=white)
