@@ -66,7 +66,8 @@
   <a href="https://www.linkedin.com/in/pratham-singhal001/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
   <a href="https://x.com/prathamsinghal0"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"></a>
   <a href="https://github.com/prathamsinghal001"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
-  <a href="https://prathamsinghal001.github.io/Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge"></a>
+  <!-- <a href="https://prathamsinghal001.github.io/Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge"></a> -->
+  <a href="(https://prathamsinghal001.pythonanywhere.com/"><img src="https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ---
